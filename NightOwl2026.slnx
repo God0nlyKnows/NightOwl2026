@@ -4,7 +4,7 @@
     <Platform Name="arm64" />
     <Platform Name="x86" />
   </Configurations>
-  <Project Path="NightOwl2026/NightOwl2026.csproj">
+  <Project Path="NightOwl2026/NightOwl2026.csproj" Id="c95fdfdc-a02e-4b08-8a09-b1dd7ef967af">
     <Platform Solution="*|arm64" Project="arm64" />
     <Platform Solution="*|x86" Project="x86" />
   </Project>
