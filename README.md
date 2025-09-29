@@ -5,4 +5,4 @@ Night Owl theme for visual studio 2026, Original Night Owl: [here](https://githu
 
 Liked theme? Feel free to donate: [ko-fi ☕](https://ko-fi.com/GodOnlyKnows)
 
-![screenshot](https://github.com/God0nlyKnows/NightOwl2026/blob/main/screen.png)
+![screenshot](https://github.com/God0nlyKnows/NightOwl2026/blob/main/NightOwl2026/screen.png)
