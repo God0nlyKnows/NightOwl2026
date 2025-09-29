@@ -1,5 +1,5 @@
 ﻿<Themes>
-  <Theme Name="NightOwl2026 (4)" GUID="{e39aee72-4d73-45a8-ae17-413ace216161}" BaseGUID="{0c0b67f0-0f88-4926-b7ed-c5b7ce297d39}">
+  <Theme Name="NightOwl2026" GUID="{e39aee72-4d73-45a8-ae17-413ace216161}" BaseGUID="{0c0b67f0-0f88-4926-b7ed-c5b7ce297d39}">
     <Category Name="ACDCOverview" GUID="{c8887ac6-3c60-4209-9d69-8f4c12a60044}">
       <Color Name="Body">
         <Background Type="CT_RAW" Source="FF011627" />
