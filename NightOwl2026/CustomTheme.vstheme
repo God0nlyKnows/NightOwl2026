@@ -1442,7 +1442,7 @@
         <Foreground Type="CT_RAW" Source="FF000F24" />
       </Color>
       <Color Name="OverviewMarginCollapsedRegion">
-        <Background Type="CT_RAW" Source="FFCCE2EF" />
+        <Background Type="CT_RAW" Source="FF000F24" />
         <Foreground Type="CT_INVALID" Source="00000000" />
       </Color>
       <Color Name="OverviewMarginBackground">
@@ -2058,8 +2058,8 @@
         <Foreground Type="CT_INVALID" Source="00000000" />
       </Color>
       <Color Name="StickyScroll Background">
-        <Background Type="CT_INVALID" Source="00000000" />
-        <Foreground Type="CT_INVALID" Source="00000000" />
+        <Background Type="CT_RAW" Source="FF000F24" />
+        <Foreground Type="CT_RAW" Source="FF011627" />
       </Color>
       <Color Name="StickyScrollLineHighlightFormat">
         <Background Type="CT_INVALID" Source="00000000" />
@@ -2094,11 +2094,11 @@
         <Foreground Type="CT_INVALID" Source="00000000" />
       </Color>
       <Color Name="outlining.chevron.expanded">
-        <Background Type="CT_RAW" Source="FFE0F6FF" />
+        <Background Type="CT_RAW" Source="FF011627" />
         <Foreground Type="CT_RAW" Source="FFDAF0FF" />
       </Color>
       <Color Name="outlining.chevron.collapsed">
-        <Background Type="CT_RAW" Source="FFE0F6FF" />
+        <Background Type="CT_RAW" Source="FF011627" />
         <Foreground Type="CT_RAW" Source="FFDAF0FF" />
       </Color>
       <Color Name="Caret (Primary)">
@@ -2690,7 +2690,7 @@
         <Foreground Type="CT_RAW" Source="FFE0F6FF" />
       </Color>
       <Color Name="ButtonBorder">
-        <Background Type="CT_RAW" Source="FF011627" />
+        <Background Type="CT_RAW" Source="FF0B4D6B" />
       </Color>
       <Color Name="ButtonDefault">
         <Background Type="CT_RAW" Source="FF011627" />
@@ -2967,7 +2967,7 @@
     </Category>
     <Category Name="CommonDocument" GUID="{72eb4027-f4ae-4b6c-9cc2-dfd5b49d9415}">
       <Color Name="Page">
-        <Background Type="CT_RAW" Source="FF334858" />
+        <Background Type="CT_RAW" Source="FF011627" />
         <Foreground Type="CT_RAW" Source="FFE0F6FF" />
       </Color>
       <Color Name="Caption">
@@ -3014,7 +3014,7 @@
         <Background Type="CT_RAW" Source="FF0B4D6B" />
       </Color>
       <Color Name="Divider">
-        <Background Type="CT_RAW" Source="FF011627" />
+        <Background Type="CT_RAW" Source="FF5F7E97" />
       </Color>
       <Color Name="ListItemBorder">
         <Background Type="CT_RAW" Source="00011627" />
@@ -3095,10 +3095,10 @@
         <Background Type="CT_RAW" Source="FFE0F6FF" />
       </Color>
       <Color Name="TileViewBorderHover">
-        <Background Type="CT_RAW" Source="FF011627" />
+        <Background Type="CT_RAW" Source="FF334858" />
       </Color>
       <Color Name="TileViewBackgroundHover">
-        <Background Type="CT_RAW" Source="FF011627" />
+        <Background Type="CT_RAW" Source="FF334858" />
       </Color>
       <Color Name="TileViewTextHover">
         <Background Type="CT_RAW" Source="FFE0F6FF" />
@@ -3122,10 +3122,10 @@
         <Background Type="CT_RAW" Source="FFE0F6FF" />
       </Color>
       <Color Name="TileViewBorderFocused">
-        <Background Type="CT_RAW" Source="FF011627" />
+        <Background Type="CT_RAW" Source="FF334858" />
       </Color>
       <Color Name="TileViewBackgroundFocused">
-        <Background Type="CT_RAW" Source="FF011627" />
+        <Background Type="CT_RAW" Source="FF334858" />
       </Color>
       <Color Name="TileViewTextFocused">
         <Background Type="CT_RAW" Source="FFE0F6FF" />
@@ -5736,7 +5736,7 @@
         <Foreground Type="CT_RAW" Source="FFE0F6FF" />
       </Color>
       <Color Name="ScrollBarThumbDisabled">
-        <Background Type="CT_RAW" Source="FF011627" />
+        <Background Type="CT_RAW" Source="FF334858" />
       </Color>
       <Color Name="ToolTipBorder">
         <Background Type="CT_RAW" Source="FF011627" />
@@ -6026,15 +6026,15 @@
         <Foreground Type="CT_INVALID" Source="00000000" />
       </Color>
       <Color Name="outlining.collapsehintadornment">
-        <Background Type="CT_RAW" Source="FFDAF0FF" />
+        <Background Type="CT_RAW" Source="FF011627" />
         <Foreground Type="CT_RAW" Source="FFDAF0FF" />
       </Color>
       <Color Name="Collapsible Text (Collapsed)">
-        <Background Type="CT_INVALID" Source="00000000" />
+        <Background Type="CT_RAW" Source="FF000F24" />
         <Foreground Type="CT_RAW" Source="FFDAF0FF" />
       </Color>
       <Color Name="Collapsible Text (Expanded)">
-        <Background Type="CT_RAW" Source="FFE0F6FF" />
+        <Background Type="CT_RAW" Source="FF000F24" />
         <Foreground Type="CT_RAW" Source="FF688C9F" />
       </Color>
       <Color Name="outlining.verticalrule">
@@ -6046,11 +6046,11 @@
         <Foreground Type="CT_RAW" Source="FFE0F6FF" />
       </Color>
       <Color Name="outlining.chevron.expanded">
-        <Background Type="CT_RAW" Source="FFE0F6FF" />
+        <Background Type="CT_RAW" Source="FF011627" />
         <Foreground Type="CT_RAW" Source="FFDAF0FF" />
       </Color>
       <Color Name="outlining.chevron.collapsed">
-        <Background Type="CT_RAW" Source="FFE0F6FF" />
+        <Background Type="CT_RAW" Source="FF011627" />
         <Foreground Type="CT_RAW" Source="FFDAF0FF" />
       </Color>
     </Category>
@@ -8677,12 +8677,12 @@
         <Foreground Type="CT_RAW" Source="FFD85050" />
       </Color>
       <Color Name="Collapsible Text (Collapsed)">
-        <Background Type="CT_INVALID" Source="00000000" />
-        <Foreground Type="CT_RAW" Source="FF5D96AC" />
+        <Background Type="CT_RAW" Source="FF000F24" />
+        <Foreground Type="CT_RAW" Source="FF20476C" />
       </Color>
       <Color Name="Collapsible Text (Expanded)">
-        <Background Type="CT_RAW" Source="FFE0F6FF" />
-        <Foreground Type="CT_RAW" Source="FF5D96AC" />
+        <Background Type="CT_RAW" Source="FF000F24" />
+        <Foreground Type="CT_RAW" Source="FF20476C" />
       </Color>
       <Color Name="Bookmark (Disabled)">
         <Background Type="CT_RAW" Source="FFCFE5F6" />
@@ -8886,11 +8886,11 @@
         <Foreground Type="CT_RAW" Source="FFE0F6FF" />
       </Color>
       <Color Name="SelectedItemActive">
-        <Background Type="CT_RAW" Source="FF011627" />
+        <Background Type="CT_RAW" Source="FF647988" />
         <Foreground Type="CT_RAW" Source="FFE0F6FF" />
       </Color>
       <Color Name="SelectedItemInactive">
-        <Background Type="CT_RAW" Source="FF334858" />
+        <Background Type="CT_RAW" Source="FF011627" />
         <Foreground Type="CT_RAW" Source="FFE0F6FF" />
       </Color>
       <Color Name="FocusVisualBorder">
